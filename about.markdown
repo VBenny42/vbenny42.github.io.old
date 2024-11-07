@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<img src="/assets/about_cover_picture.png"
+     alt="Cover Picture"
+     style="float: left; margin-bottom: 10px;" />
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm a Software Developer currently based in Trinidad and Tobago.
+I have a passion for learning how things work and I'm always looking for ways to improve my skills and workflows.
+I'm hoping to use this blog to document my journey as a developer and share some of the things I've learned along the way.
+I'm heavily interested in Pokemon, Neovim, and I'm currently learning Go.
